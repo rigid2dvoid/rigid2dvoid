@@ -1,8 +1,5 @@
  <div align="center">
 
-  <h3>rigid2dvoid</h3>
-  <sub>Backend Engineering · Linux · DevOps</sub>
-
   <br><br>
 
   ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rigid2dvoid&layout=compact&theme=tokyonight&hide_border=true)
