@@ -4,7 +4,7 @@
 
   ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rigid2dvoid&layout=compact&theme=tokyonight&hide_border=true)
 
-  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rigid2dvoid&layout=pie&hide_border=true&theme=tokyonight&langs_count=14)
+ ![Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rigid2dvoid&layout=normal&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
