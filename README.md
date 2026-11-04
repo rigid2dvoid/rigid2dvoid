@@ -2,7 +2,7 @@
 
   <br>
 
-  <i>ngoding klo ada tugas doang jir wkwkwk.</i>
+  <i>ngoding kalau ada tugas doang jir wkwkwkwk</i>
 
   <br><br>
 
@@ -18,7 +18,7 @@
     <tr>
       <td colspan="2" align="center">
         <br>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rigid2dvoid&layout=normal&theme=tokyonight&hide_border=true&langs_count=8" width="65%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rigid2dvoid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="56%" />
         <br>
       </td>
     </tr>
